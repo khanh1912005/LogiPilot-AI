@@ -1,0 +1,11 @@
+﻿numpy
+pandas
+polars
+duckdb
+pyarrow
+scikit-learn
+jupyterlab
+ipykernel
+matplotlib
+pytest
+python-dotenv
